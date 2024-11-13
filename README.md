@@ -9,7 +9,7 @@
                         🌱 I’m currently learning ...
                          💯 Databases: MySQL, MongoDB, OracleDB.
                         🔥 Programming Language: Javascript.
-                        👨🏽‍💻 Frameworks: React.js,Node.js, Express.js, MUI and Ant-Design.
-                        💬 Ask me about javascript, Wordpress,
+                        👨🏽‍💻 Frameworks: React.js,Node.js, Express.js,and  MUI 
+                        💬 Ask me about javascript,
                         📫 How to reach me: .shawosman090@gmail.com..
 
