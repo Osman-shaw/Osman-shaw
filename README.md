@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Drone Service Company
 - 💬 Ask me about ... Javascript,PHP and Typescript
 - 📫 How to reach me: ...shawosman26@gmail.com
-- ⚡ Fun fact: ... I love Music, Photography and Tade forex 
+- ⚡ Fun fact: ... I love Music, Photography and Trade forex 
 
