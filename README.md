@@ -11,11 +11,14 @@
 
 **
 🛠️ **Techanical Stack/Languages
-1.Javascript 2.PHP, 3.Typescript 4.python
- Framework/libraries and Tools****
-1. Git 2.Axure 3.Bootsrap 4.Nexjs 5.tailwindcss 6.material ui 7.Reactjs 8.ReactNative 9.Github 10.wordpress 11.sharepoint
-**Databases**
-1.MySQl 2.OracleDB 3.PostgreSQL 4.MongoDB
-
-**professional summary**
-Fullstack Engineer(React,nodejs,databases) | University of Greenwhich Alumnus (2:1)|Lead contractor at ShawDynastyCpaital Ltd
+     1.Javascript 2.PHP, 3.Typescript 4.python
+     Framework/libraries and Tools****
+     1. Git 2.Axure 3.Bootsrap 4.Nexjs 5.tailwindcss 6.material ui 7.Reactjs 8.ReactNative
+     9.Github 10.wordpress 11.sharepoint
+     **Databases**
+     1.MySQl 2.OracleDB 3.PostgreSQL 4.MongoDB
+**
+    **professional summary****
+     Software Engineer with a strong focus on full-stack development and mobile applications with years of experience 
+     in JavaScript, TypeScript and PHP💖(React,nodejs,databases) | 
+University of Greenwhich Alumnus (2:1)|Lead contractor at ShawDynastyCpaital Ltd
