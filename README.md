@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 **Osman-shaw/Osman-shaw** is a ✨ Fullsatck Developer ✨ Interested in  Web App , Databases, Data Analysis, and Mobile Apps.
-
-- 🔭 I’m currently working on ... Inventory Management System
 - 🌱 I’m currently learning ... Go and Python
 - 👯 I’m looking to collaborate on ... Drone Service Company
 - 💬 Ask me about ... Javascript,PHP and Typescript
@@ -25,4 +23,4 @@
     
      Software Engineer with a strong focus on full-stack development and mobile applications
      with years of experience in JavaScript, TypeScript and PHP💖(React,nodejs,databases) | 
-     University of Greenwhich Alumnus (2:1)|Lead contractor at ShawDynastyCpaital Ltd
+     University of Greenwhich Alumnus|Lead contractor at ShawDynastyCpaital Ltd
